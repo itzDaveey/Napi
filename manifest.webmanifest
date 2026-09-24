@@ -1,0 +1,31 @@
+{
+  "name": "Napi dashboard",
+  "short_name": "Napi",
+  "description": "Napi rutin, képernyőidő, alvás, hála napló, pénzügy és heti/havi összefoglalók.",
+  "lang": "hu",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffeaee",
+  "theme_color": "#ffeaee",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
